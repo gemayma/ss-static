@@ -5,13 +5,14 @@
   background-color: white;
 }
 .job-modal-content {
-  margin-top: -170px;
+  margin-top: -190px;
 }
 .icon-3k {
-  margin-top: -60px;
+  margin-top: -50px;
+  height: 72px;
 }
 .display-picture {
-  height: 90px;
-  margin-top: -50px;
+  height: 56px;
+  margin-top: -40px;
   border-radius: 50%;
 }
