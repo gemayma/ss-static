@@ -1,8 +1,9 @@
 .job-modal-bg {
-  background-image: url('../images/photo.jpg');
+  background-image: url('../images/swing.jpg');
   background-size: cover;
   height: 400px;
   background-color: white;
+  background-position: 30% 50%
 }
 .job-modal-content {
   margin-top: -160px;
@@ -19,4 +20,5 @@
 
 .workmanship-modal {
   width: 480px;
+  background-color: white;
 }
