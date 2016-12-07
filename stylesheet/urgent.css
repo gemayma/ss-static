@@ -1,6 +1,3 @@
-.urgent-job {
-  width: 480px;
-}
 .urgent-bg {
   background-color: #ff554f;
   color: white;
@@ -23,5 +20,6 @@
   line-height: 40px
 }
 .urgent-icon {
-
+  height: 56px;
 }
+
