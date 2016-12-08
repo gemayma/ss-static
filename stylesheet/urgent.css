@@ -8,7 +8,6 @@
 }
 .urgent-text {
   font-style: italic;
-  opacity: .6;
 }
 .urgent-badge {
   border: solid 3px white;
@@ -19,7 +18,12 @@
   font-size: 24px;
   line-height: 40px
 }
-.urgent-icon {
+.urgent-icon{
   height: 56px;
+  fill: #737373;
 }
-
+.urgent-container {
+  margin-left: -8px;
+  margin-right: -8px;
+  margin-top: -15px;
+}
