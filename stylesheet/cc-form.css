@@ -1,0 +1,13 @@
+.cc-card-icon img{
+  height:15px;
+  display: inline-block;
+}
+.cc-container {
+  height: 480px;
+}
+.cc-lock-icon {
+  display: inline-block;
+}
+.cc-text-icon {
+  display: inline-block;
+}
