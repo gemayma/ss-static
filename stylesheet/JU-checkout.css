@@ -1,18 +1,14 @@
-.test-container {
-  margin-left: -8px;
-  margin-right: -8px;
-  margin-top: -15px;
-}
+
 .ju-checkout-bg {
   background-color: #1ec659;
 }
-.cc-card-icon img{
+.ju-cc-card-icon img{
   height:15px;
 }
-.modal-lock-icon {
+.ju-lock-icon {
   color: #ffa900;
   display: inline-block;
 }
-.modal-text-icon {
+.ju-text-icon {
   display: inline-block;
 }
