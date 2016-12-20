@@ -1,0 +1,39 @@
+
+.ju-checkout-bg {
+  background-color: #1ec659;
+}
+.ju-lock-icon {
+  display: inline-block;
+}
+.ju-text-icon {
+  display: inline-block;
+}
+.ju-container {
+  margin-left: -8px;
+  margin-right: -8px;
+  margin-top: -15px;
+}
+
+.checkbox-box-reverse .checkbox-box-text {
+  color: white;
+}
+.checkbox-box-reverse input + .checkbox-box-icon::after {
+  color: white;
+}
+.checkbox-box-reverse input + .checkbox-box-icon::before {
+  color: white;
+}
+.checkbox-box-reverse input:checked + .checkbox-box-icon::before {
+  color: white;
+}
+.checkbox-box-reverse input:checked + .checkbox-box-icon::after {
+  color: white;
+}
+
+.checkbox-box-clear .checkbox-box-text {
+  border: none;
+  background: transparent;
+}
+.checkbox-box-clear input:checked ~ .checkbox-box-text {
+  background: rgba(0,0,0,0.12);
+}
