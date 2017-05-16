@@ -1,0 +1,36 @@
+.chat-tabs {
+  height: 456px;
+  overflow-y: scroll;
+}
+
+.chat-tabs .card {
+  border-bottom: none;
+}
+.profile-card .card{
+  height: 500px;
+}
+.chat-content-card {
+  overflow-y: scroll;
+  height: 338px;
+}
+.profile-card img{
+  margin-top: -50px;
+}
+.chat-content-card img {
+  height:48px;
+  width: 48px;
+  border-radius: 50%;
+}
+.chat-profile-card img{
+  height: 120px;
+  width: 120px;
+}
+.chat-profile-card button{
+  margin-top: 103px;
+}
+.chat-profile-card .card-dp img {
+  border-radius: 50%;
+  margin-top: -70px;
+  height: 80px;
+  width: 80px;
+}

@@ -1,0 +1,105 @@
+/* line 3, /home/vcabana/www/serviceseeking/engines/businesses/app/concepts/businesses/lead/assets/lead.scss */
+.new-notification {
+  font-size: 10px;
+  text-align: center;
+  padding: 3px 5px 3px 4px;
+  border-radius: 3px;
+  background: purple;
+  opacity: 1;
+}
+
+/* line 13, /home/vcabana/www/serviceseeking/engines/businesses/app/concepts/businesses/lead/assets/lead.scss */
+.job-upgrades {
+  margin: -24px -24px 16px -24px;
+  padding-top: 7px;
+  padding-bottom: 6px;
+  background-color: #0097E9;
+  padding-left: 15px;
+}
+/* line 22, /home/vcabana/www/serviceseeking/engines/businesses/app/concepts/businesses/lead/assets/lead.scss */
+.job-upgrades.r-green {
+  background-color: #65C21D;
+}
+/* line 26, /home/vcabana/www/serviceseeking/engines/businesses/app/concepts/businesses/lead/assets/lead.scss */
+.job-upgrades.r-red {
+  background-color: #FF7366;
+}
+/* line 30, /home/vcabana/www/serviceseeking/engines/businesses/app/concepts/businesses/lead/assets/lead.scss */
+.job-upgrades.r-orange {
+  background-color: #FFA317;
+}
+/* line 34, /home/vcabana/www/serviceseeking/engines/businesses/app/concepts/businesses/lead/assets/lead.scss */
+.job-upgrades.r-blue {
+  background-color: #2b99f0;
+}
+
+/* line 39, /home/vcabana/www/serviceseeking/engines/businesses/app/concepts/businesses/lead/assets/lead.scss */
+.discard-lead {
+  position: absolute;
+  bottom: 13px;
+  right: 0;
+}
+/* line 44, /home/vcabana/www/serviceseeking/engines/businesses/app/concepts/businesses/lead/assets/lead.scss */
+.discard-lead a {
+  color: #aaa;
+}
+/* line 46, /home/vcabana/www/serviceseeking/engines/businesses/app/concepts/businesses/lead/assets/lead.scss */
+.discard-lead a:hover {
+  color: #ff4d74;
+}
+/* line 50, /home/vcabana/www/serviceseeking/engines/businesses/app/concepts/businesses/lead/assets/lead.scss */
+.discard-lead i {
+  line-height: 0.5em;
+}
+
+/* line 56, /home/vcabana/www/serviceseeking/engines/businesses/app/concepts/businesses/lead/assets/lead.scss */
+.no-leads .modal-content {
+  background: black;
+  opacity: 0.92;
+  width: 400px;
+}
+/* line 64, /home/vcabana/www/serviceseeking/engines/businesses/app/concepts/businesses/lead/assets/lead.scss */
+.no-leads img.got-it-image {
+  content: url("/assets/leads/tooltip_got_it.png");
+  width: 250px;
+}
+
+/* line 72, /home/vcabana/www/serviceseeking/engines/businesses/app/concepts/businesses/lead/assets/lead.scss */
+.navbar-nav .popover, .show-lead-desc-wrapper .popover, .center-quote .popover, .quote-form .popover, .lead-box .popover {
+  padding: 1px;
+  font-size: 14px;
+  border-radius: 6px;
+  max-width: 300px;
+  text-align: left;
+  background: black;
+  opacity: 0.92;
+  color: #ffffff;
+}
+/* line 82, /home/vcabana/www/serviceseeking/engines/businesses/app/concepts/businesses/lead/assets/lead.scss */
+.navbar-nav .popover.top .arrow:after, .show-lead-desc-wrapper .popover.top .arrow:after, .center-quote .popover.top .arrow:after, .quote-form .popover.top .arrow:after, .lead-box .popover.top .arrow:after {
+  border-top-color: black;
+}
+/* line 86, /home/vcabana/www/serviceseeking/engines/businesses/app/concepts/businesses/lead/assets/lead.scss */
+.navbar-nav .popover.bottom .arrow:after, .show-lead-desc-wrapper .popover.bottom .arrow:after, .center-quote .popover.bottom .arrow:after, .quote-form .popover.bottom .arrow:after, .lead-box .popover.bottom .arrow:after {
+  border-bottom-color: black;
+}
+/* line 90, /home/vcabana/www/serviceseeking/engines/businesses/app/concepts/businesses/lead/assets/lead.scss */
+.navbar-nav .popover.right .arrow:after, .show-lead-desc-wrapper .popover.right .arrow:after, .center-quote .popover.right .arrow:after, .quote-form .popover.right .arrow:after, .lead-box .popover.right .arrow:after {
+  border-right-color: black;
+}
+/* line 94, /home/vcabana/www/serviceseeking/engines/businesses/app/concepts/businesses/lead/assets/lead.scss */
+.navbar-nav .popover.left .arrow:after, .show-lead-desc-wrapper .popover.left .arrow:after, .center-quote .popover.left .arrow:after, .quote-form .popover.left .arrow:after, .lead-box .popover.left .arrow:after {
+  border-left-color: black;
+}
+/* line 99, /home/vcabana/www/serviceseeking/engines/businesses/app/concepts/businesses/lead/assets/lead.scss */
+.navbar-nav .popover-title, .show-lead-desc-wrapper .popover-title, .center-quote .popover-title, .quote-form .popover-title, .lead-box .popover-title {
+  position: relative;
+  padding: 12px;
+  font-size: 14px;
+  font-weight: bold;
+  max-width: 300px;
+  text-align: left;
+  background: black;
+  opacity: 0.92;
+  color: #ffffff;
+}
