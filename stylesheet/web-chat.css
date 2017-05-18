@@ -5,7 +5,7 @@
 .chat-tabs .card-flat {
   border-bottom: none;
 }
-.chat-content-card .card{
+.chat-content-card {
   overflow-y: scroll;
   height: 338px;
 }
