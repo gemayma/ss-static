@@ -2,19 +2,12 @@
   height: 456px;
   overflow-y: scroll;
 }
-
 .chat-tabs .card {
   border-bottom: none;
-}
-.profile-card .card{
-  height: 500px;
 }
 .chat-content-card {
   overflow-y: scroll;
   height: 338px;
-}
-.profile-card img{
-  margin-top: -50px;
 }
 .chat-content-card img {
   height:48px;
@@ -50,8 +43,8 @@
   border: 12px solid;
   border-color: transparent transparent #D5EBFC #D5EBFC;
 }
-.talk-bubble {
-  margin: 40px;
+.chat-bubble {
+  margin: 16px;
   display: inline-block;
   position: relative;
   background-color: #D5EBFC;
