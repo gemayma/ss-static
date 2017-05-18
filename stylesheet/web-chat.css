@@ -2,10 +2,10 @@
   height: 456px;
   overflow-y: scroll;
 }
-.chat-tabs .card {
+.chat-tabs .card-flat {
   border-bottom: none;
 }
-.chat-content-card {
+.chat-content-card .card{
   overflow-y: scroll;
   height: 338px;
 }
