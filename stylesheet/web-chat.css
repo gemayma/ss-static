@@ -3,11 +3,11 @@
   overflow-y: scroll;
 }
 .chat-tabs .card-flat {
-  border-bottom: none;
+  border-top: none;
 }
 .chat-content-card {
   overflow-y: scroll;
-  height: 338px;
+  height: 350px !important;
 }
 .chat-content-card img {
   height:48px;
@@ -19,7 +19,7 @@
   width: 120px;
 }
 .chat-profile-card button{
-  margin-top: 103px;
+  margin-top: 106px;
 }
 .chat-profile-card .card-dp img {
   border-radius: 50%;
@@ -27,7 +27,6 @@
   height: 80px;
   width: 80px;
 }
-
 /**** chat bubble*****/
 .round{
   border-radius: 10px;
@@ -52,4 +51,20 @@
 
 .mobile-tab-panes .tab-pane .card {
   z-index: 2;
+}
+
+/*****input-button****/
+
+.chat-input-button {
+  padding: 0px 16px 0px 16px;
+}
+
+.chat-input-button input {
+  border: none;
+  width: 100%;
+  margin-bottom: 0px;
+}
+
+.chat-input-button input:focus {
+  outline: none;
 }
