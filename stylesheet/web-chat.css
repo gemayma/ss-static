@@ -48,7 +48,22 @@
   position: relative;
   background-color: #D5EBFC;
 }
-
+.chat-bubble-from-biz{
+  margin: 16px;
+  display: inline-block;
+  position: relative;
+  background-color: #dcdcdc;
+}
+.tri-right.left-in:after{
+  content: ' ';
+  position: absolute;
+  left: -13px;
+  right: auto;
+  top: 13px;
+  bottom: auto;
+  border: 12px solid;
+  border-color: transparent transparent #dcdcdc transparent;
+}
 .mobile-tab-panes .tab-pane .card {
   z-index: 2;
 }
