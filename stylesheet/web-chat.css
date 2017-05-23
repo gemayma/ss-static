@@ -31,7 +31,6 @@
 .round{
   border-radius: 10px;
 }
-
 .tri-right.right-in:after{
   content: ' ';
   position: absolute;
@@ -47,13 +46,18 @@
   display: inline-block;
   position: relative;
   background-color: #D5EBFC;
+  max-width: 300px;
+  word-wrap: break-word;
 }
-.chat-bubble-from-biz{
+.chat-bubble-from-biz {
   margin: 16px;
   display: inline-block;
   position: relative;
   background-color: #dcdcdc;
+  max-width: 300px;
+  word-wrap: break-word;
 }
+
 .tri-right.left-in:after{
   content: ' ';
   position: absolute;
