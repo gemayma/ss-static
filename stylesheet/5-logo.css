@@ -1,0 +1,107 @@
+/* line 1, /home/vcabana/www/serviceseeking/engines/businesses/app/concepts/businesses/logo/assets/logo.scss */
+.avatar {
+  max-width: 48px;
+  box-sizing: content-box;
+}
+
+/* line 6, /home/vcabana/www/serviceseeking/engines/businesses/app/concepts/businesses/logo/assets/logo.scss */
+.businesses-logo-cell {
+  font-size: 4em;
+  color: white;
+  text-align: center;
+  border-radius: 50%;
+  background-color: #F3F3F3;
+  background-size: cover;
+  background-position: center;
+  height: 48px;
+  width: 48px;
+}
+/* line 17, /home/vcabana/www/serviceseeking/engines/businesses/app/concepts/businesses/logo/assets/logo.scss */
+.businesses-logo-cell > i {
+  width: 1em !important;
+}
+
+/* Default Logo */
+/* line 24, /home/vcabana/www/serviceseeking/engines/businesses/app/concepts/businesses/logo/assets/logo.scss */
+.default-logo-container, .logo-container {
+  font-size: 13px;
+  line-height: 48px;
+  font-weight: 800;
+  height: 48px;
+  width: 48px;
+}
+
+/* line 32, /home/vcabana/www/serviceseeking/engines/businesses/app/concepts/businesses/logo/assets/logo.scss */
+.logo-large {
+  height: 56px;
+  width: 56px;
+}
+
+/* line 37, /home/vcabana/www/serviceseeking/engines/businesses/app/concepts/businesses/logo/assets/logo.scss */
+.logo-large .businesses-logo-cell {
+  height: 56px;
+  width: 56px;
+  font-size: 13px;
+  line-height: 56px;
+}
+
+/* line 44, /home/vcabana/www/serviceseeking/engines/businesses/app/concepts/businesses/logo/assets/logo.scss */
+.lg-square .default-logo-container,
+.lg-square .logo-container {
+  width: 180px;
+  height: 180px;
+  border-radius: 0;
+  line-height: 180px;
+  font-size: 32px;
+  font-weight: 800;
+}
+
+/* line 54, /home/vcabana/www/serviceseeking/engines/businesses/app/concepts/businesses/logo/assets/logo.scss */
+.default-logo-bg-red {
+  background: #F44336;
+}
+
+/* line 58, /home/vcabana/www/serviceseeking/engines/businesses/app/concepts/businesses/logo/assets/logo.scss */
+.default-logo-bg-sky-blue {
+  background: #00BCD4;
+}
+
+/* line 62, /home/vcabana/www/serviceseeking/engines/businesses/app/concepts/businesses/logo/assets/logo.scss */
+.default-logo-bg-hot-pink {
+  background: #F06292;
+}
+
+/* line 66, /home/vcabana/www/serviceseeking/engines/businesses/app/concepts/businesses/logo/assets/logo.scss */
+.default-logo-bg-light-orange {
+  background: #FF9800;
+}
+
+/* line 70, /home/vcabana/www/serviceseeking/engines/businesses/app/concepts/businesses/logo/assets/logo.scss */
+.default-logo-bg-pink {
+  background: #E91E63;
+}
+
+/* line 74, /home/vcabana/www/serviceseeking/engines/businesses/app/concepts/businesses/logo/assets/logo.scss */
+.default-logo-bg-violet {
+  background: #9C27B0;
+}
+
+/* line 78, /home/vcabana/www/serviceseeking/engines/businesses/app/concepts/businesses/logo/assets/logo.scss */
+.default-logo-bg-blue-green {
+  background: #009688;
+}
+
+/* line 82, /home/vcabana/www/serviceseeking/engines/businesses/app/concepts/businesses/logo/assets/logo.scss */
+.default-logo-bg-yellow {
+  background: #FFC107;
+}
+
+/* line 86, /home/vcabana/www/serviceseeking/engines/businesses/app/concepts/businesses/logo/assets/logo.scss */
+.default-logo-bg-dark-orange {
+  background: #FF5722;
+}
+
+/* line 90, /home/vcabana/www/serviceseeking/engines/businesses/app/concepts/businesses/logo/assets/logo.scss */
+.default-logo-bg-orange {
+  background: #FF9100;
+}

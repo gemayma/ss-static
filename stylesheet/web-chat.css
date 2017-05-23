@@ -1,0 +1,89 @@
+.chat-tabs {
+  height: 456px;
+  overflow-y: scroll;
+}
+.chat-tabs .card-flat {
+  border-top: none;
+}
+.chat-content-card {
+  overflow-y: scroll;
+  height: 350px !important;
+}
+.chat-content-card img {
+  height:48px;
+  width: 48px;
+  border-radius: 50%;
+}
+.chat-profile-card img{
+  height: 120px;
+  width: 120px;
+}
+.chat-profile-card button{
+  margin-top: 106px;
+}
+.chat-profile-card .card-dp img {
+  border-radius: 50%;
+  margin-top: -70px;
+  height: 80px;
+  width: 80px;
+}
+/**** chat bubble*****/
+.round{
+  border-radius: 10px;
+}
+.tri-right.right-in:after{
+  content: ' ';
+  position: absolute;
+  left: auto;
+  right: -13px;
+  top: 13px;
+  bottom: auto;
+  border: 12px solid;
+  border-color: transparent transparent #D5EBFC #D5EBFC;
+}
+.chat-bubble {
+  margin: 16px;
+  display: inline-block;
+  position: relative;
+  background-color: #D5EBFC;
+  max-width: 300px;
+  word-wrap: break-word;
+}
+.chat-bubble-from-biz {
+  margin: 16px;
+  display: inline-block;
+  position: relative;
+  background-color: #dcdcdc;
+  max-width: 300px;
+  word-wrap: break-word;
+}
+
+.tri-right.left-in:after{
+  content: ' ';
+  position: absolute;
+  left: -13px;
+  right: auto;
+  top: 13px;
+  bottom: auto;
+  border: 12px solid;
+  border-color: transparent transparent #dcdcdc transparent;
+}
+.mobile-tab-panes .tab-pane .card {
+  z-index: 2;
+}
+
+/*****input-button****/
+
+.chat-input-button {
+  padding: 0px 16px 0px 16px;
+}
+
+.chat-input-button input {
+  border: none;
+  width: 100%;
+  margin-bottom: 0px;
+}
+
+.chat-input-button input:focus {
+  outline: none;
+}
